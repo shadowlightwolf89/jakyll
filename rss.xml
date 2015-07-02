@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>Your awesome title</title>
+        <description>Your awesome title - Rowan Maddigen</description>
+        <link>http://shadowlightwolf89.github.io/jakyll</link>
+        <link>http://shadowlightwolf89.github.io/jakyll</link>
+        <lastBuildDate>2015-07-01T20:36:08-06:00</lastBuildDate>
+        <pubDate>2015-07-01T20:36:08-06:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>Welcome</title>
+                <description>&lt;p&gt;As the title of this post says... Welcome! This blog was originally meant to showcase a dark material theme I planned on creating, &lt;!--more--&gt;but then, I realized I didn&#39;t know diddly squat about making themes, so I just made a plain old blog instead.&lt;/p&gt;
+
+&lt;p&gt;If you think that&#39;s silly, then let me tell you, I don&#39;t even know what I&#39;m going to do with it!&lt;/p&gt;
+
+&lt;p&gt;Maybe I&#39;ll just use it for experimentation or some such. I donno.&lt;/p&gt;
+
+&lt;p&gt;Either way, I&#39;m keeping this repo name, I quite like it.&lt;/p&gt;
+</description>
+                <link>http://shadowlightwolf89.github.io/jakyll/updates/2015/07/01/welcome</link>
+                <guid>http://shadowlightwolf89.github.io/jakyll/updates/2015/07/01/welcome</guid>
+                <pubDate>2015-07-01T20:31:29-06:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>

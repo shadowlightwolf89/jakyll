@@ -1,0 +1,11 @@
+
+http://shadowlightwolf89.github.io/jakyll/archive.html
+http://shadowlightwolf89.github.io/jakyll/atom.xml
+http://shadowlightwolf89.github.io/jakyll/categories.html
+http://shadowlightwolf89.github.io/jakyll/index.html
+http://shadowlightwolf89.github.io/jakyll/pages.html
+http://shadowlightwolf89.github.io/jakyll/rss.xml
+http://shadowlightwolf89.github.io/jakyll/sitemap.txt
+http://shadowlightwolf89.github.io/jakyll/tags.html
+
+http://shadowlightwolf89.github.io/jakyll/updates/2015/07/01/welcome

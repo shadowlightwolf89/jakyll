@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Your awesome title</title>
+ <link href="http://shadowlightwolf89.github.io/jakyll/" rel="self"/>
+ <link href="http://shadowlightwolf89.github.io/jakyll"/>
+ <updated>2015-07-01T20:36:08-06:00</updated>
+ <id>http://shadowlightwolf89.github.io/jakyll</id>
+ <author>
+   <name>Rowan Maddigen</name>
+   <email>shadowlightwolf89@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Welcome</title>
+   <link href="http://shadowlightwolf89.github.io/jakyll/updates/2015/07/01/welcome"/>
+   <updated>2015-07-01T20:31:29-06:00</updated>
+   <id>http://shadowlightwolf89.github.io/jakyll/updates/2015/07/01/welcome</id>
+   <content type="html">&lt;p&gt;As the title of this post says... Welcome! This blog was originally meant to showcase a dark material theme I planned on creating, &lt;!--more--&gt;but then, I realized I didn&#39;t know diddly squat about making themes, so I just made a plain old blog instead.&lt;/p&gt;
+
+&lt;p&gt;If you think that&#39;s silly, then let me tell you, I don&#39;t even know what I&#39;m going to do with it!&lt;/p&gt;
+
+&lt;p&gt;Maybe I&#39;ll just use it for experimentation or some such. I donno.&lt;/p&gt;
+
+&lt;p&gt;Either way, I&#39;m keeping this repo name, I quite like it.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
